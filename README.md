@@ -14,7 +14,7 @@ Foram apresentados conceitos e exemplos de lógica de programação utilizando J
     - Estruturas de controle de repetição
     - Git, Github (utilizado deploy por ssh-key)
 
-## Executei o curso como forma de atualizar conceitos e ter uma visão diferenciada, __Long Learning Life__ (softskill)
+### Executei o curso como forma de atualizar conceitos e ter uma visão diferenciada, __Lifelong Learning___ (softskill)
 
 ## Desafio ##
 **O que dever ser utilizado**
