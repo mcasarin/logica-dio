@@ -17,7 +17,7 @@ Foram apresentados conceitos e exemplos de lógica de programação utilizando J
 ### Executei o curso como forma de atualizar conceitos e ter uma visão diferenciada, __Lifelong Learning___ (softskill)
 
 ## Desafio ##
-**O que dever ser utilizado**
+**O que deve ser utilizado**
 - Variáveis
 - Operadores
 - Laços de repetição
@@ -39,3 +39,6 @@ Se XP for maior ou igual a 10001 = Radiante
 ### Saída ###
 Ao final deve ser exibida uma mensagem:
 "O herói de nome **{nome}** está no nível de **{nível}**"
+
+## O que utilizei ##
+Utilizei o switch case, quando a lógica seria utilizar ifs concatenados, para treinar e verificar saídas para as condicionais nesse formato.
